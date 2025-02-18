@@ -4,7 +4,7 @@ import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
 import './App.css';
 
 function Home() {
-  return <h1>Home Page</h1>;
+  return;
 }
 
 function App() {
